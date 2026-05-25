@@ -1,0 +1,23 @@
+# Pasukan file konfigurasi sensitif
+.env
+*.env
+
+# Binaries dan hasil build Go
+bin/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+ehr-api
+
+# IDE & OS files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
